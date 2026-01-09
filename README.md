@@ -1,4 +1,4 @@
 # SoloJoy
 Idea Phase:
-  Brainstorming
+  Brainstorming<br>
 SoloJoy is a llm based AI agent.
